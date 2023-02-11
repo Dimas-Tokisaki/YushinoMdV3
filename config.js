@@ -59,25 +59,25 @@ global.namebot = 'victor bot'
 global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Kurumi md'
 global.media = 'https://telegra.ph/file/b69e2e87cdbaebb7751ce.jpg'
 global.watermark = wm
-global.wm2 = 'victor bot '
+global.wm2 = 'DimasKitotaka '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `victor 𝐗 leviXd`
-global.stickpack = 'victor 𝐗 leviXd'
+global.titlebot = `Kurumi 𝐗 Dimas`
+global.stickpack = 'KurumiBot 𝐗 DimasKiyotaka'
 global.stickauth = `© Victor MD`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'victor bot'
-global.nameown2 = 'leviXd'
+global.nameown1= 'DimasKiyotaka'
+global.nameown2 = 'Kurumi=Bot'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'https://chat.whatsapp.com/CYhsa4bazBDHJkWbzSHnKk'
 global.lynk = 'https://chat.whatsapp.com/CYhsa4bazBDHJkWbzSHnKk'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/leviatnansyah?igshid=YmMyMTA2M2Y='
+global.sig = 'https://instagram.com/dimas_kiyotaka'
 global.sgh = 'https://github.com/DimasTokisaki' //github
 global.sgc = 'https://chat.whatsapp.com/CYhsa4bazBDHJkWbzSHnKk' //group whatsapp
 global.sdc = '-' //discord
